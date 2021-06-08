@@ -33,12 +33,14 @@ Company XYZ owns a supermarket chain across Nigeria. Each major branch, located 
 
 # Future Work
 
-1. Analyzing each of the branch's data set to discover possible peculiarities and insights.
-2.
+1. Analyzing individual branch's data set to discover possible peculiarities and insights.
+2. Performing analysis on a data set spanning a longer time period
 
 # Standout Section
 
-* Viewing the header rows of the `.csv files` prior to concatenation.
+* Viewing the header rows of the `csv files` prior concatenation.
+* Viewing summaries for non-numerical data using the `.describe()` method.
+* Preliminary attempts at answering important questions.
 
 # Executive Summary.
 
