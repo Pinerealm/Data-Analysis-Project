@@ -40,8 +40,4 @@ Company XYZ owns a supermarket chain across Nigeria. Each major branch, located 
 
 * Viewing the header rows of the `csv files` prior concatenation.
 * Viewing summaries for non-numerical data using the `.describe()` method.
-* Preliminary attempts at answering important questions.
-
-# Executive Summary.
-
-To-Do - Include your Executive Summary document in your repository.
+* Preliminary attempts at answering other important questions.
